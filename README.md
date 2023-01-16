@@ -1,1 +1,1 @@
-# ahorcado
+Hangman game using Mexico states
